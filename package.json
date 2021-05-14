@@ -7,7 +7,7 @@
     "@stripe/stripe-js": "1.11.0",
     "@testing-library/jest-dom": "5.11.8",
     "@testing-library/react": "11.2.2",
-    "@testing-library/user-event": "12.6.0",
+    "@testing-library/user-event": "13.1.9",
     "chart.js": "2.9.4",
     "postcss": "8.2.10",
     "postcss-cli": "8.3.1",
